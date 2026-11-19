@@ -1,0 +1,5 @@
+{
+  "name": "smart-food-redistribution",
+  "version-string": "1.0.0",
+  "dependencies": ["crow", "sqlite3"]
+}
